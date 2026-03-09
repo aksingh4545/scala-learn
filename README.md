@@ -1,15 +1,5 @@
-# scala-learn
-Here’s a **professional, visually appealing, recruiter-friendly** version of your README.md for the **AWS Glue Scala ETL Pipeline** project.
 
-It includes:
-- Modern badges (using shields.io)
-- Clean structure with emojis
-- Mermaid architecture diagram (GitHub renders it natively)
-- Code blocks with proper highlighting
-- Better formatting for tables, lists, and sections
-- Subtle call-to-action at the bottom
 
-```markdown
 <div align="center">
 
   <h1>📊 AWS Glue Scala ETL Pipeline</h1>
